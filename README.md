@@ -1,31 +1,112 @@
-# Portfólio Acadêmico - Análise e Desenvolvimento de Sistemas
+<h1 align="center">Olá! Eu sou Daniel Merscher 👋</h1>
 
-## Sobre
-Portfólio desenvolvido para apresentar projetos acadêmicos e práticos realizados durante a graduação em Análise e Desenvolvimento de Sistemas.
+<p align="center">
+Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong><br>
+Apaixonado por tecnologia e desenvolvimento de software.
+</p>
 
-## Tecnologias
+---
+
+# 🚀 Sobre mim
+
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
+
+💻 Atualmente estudando:
+
 - Java
+- Spring Boot
 - JavaScript
 - HTML5
 - CSS3
-- Spring Boot
-- MySQL
-- GitHub
+- SQL
+- Git e GitHub
+
+📚 Buscando minha primeira oportunidade como Desenvolvedor Back-end Java.
+
+---
+
+# 🛠 Tecnologias
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,spring,javascript,html,css,mysql,git,github,vscode" />
+
+</p>
+
+---
+
+# 📂 Projetos
+
+## 📊 Sistema de Controle de Pagamentos
+
+Aplicação desenvolvida para auxiliar no gerenciamento de parcelas e organização financeira.
+
+Tecnologias utilizadas:
+
 - Google Sheets
+- Fórmulas
+- Organização de dados
 
-## Projetos
+---
 
-### 1. API REST em Java
-Desenvolvimento de uma API utilizando Spring Boot para cadastro e gerenciamento de dados.
+## 📅 Sistema de Escalas
 
-### 2. Sistema de Controle de Pagamentos
-Planilha automatizada para controle de parcelas e acompanhamento financeiro.
+Projeto para geração automática de escalas de funcionários utilizando regras de negócio.
 
-### 3. Escala de Funcionários
-Sistema em Google Sheets para distribuição automática de horários e turnos.
+---
 
-### 4. Modelagem de Banco de Dados
-Criação de modelos conceitual, lógico e físico utilizando SQL e boas práticas de modelagem.
+## ☕ API REST em Java
 
-## Objetivo
-Aplicar conhecimentos de programação, banco de dados e desenvolvimento de sistemas em projetos práticos, buscando evolução contínua na área de tecnologia.
+Projeto acadêmico utilizando:
+
+- Java
+- Spring Boot
+- JPA
+- MySQL
+
+Funcionalidades:
+
+- Cadastro
+- Consulta
+- Atualização
+- Exclusão
+
+---
+
+## 📖 Exercícios de Programação
+
+Coleção de exercícios desenvolvidos durante meus estudos.
+
+Assuntos:
+
+- Lógica de Programação
+- Estruturas de Dados
+- Orientação a Objetos
+- JavaScript
+- Java
+
+---
+
+# 🎯 Objetivo
+
+Meu objetivo é atuar como Desenvolvedor Back-end Java, contribuindo com soluções eficientes enquanto continuo evoluindo profissionalmente.
+
+---
+
+# 📫 Contato
+
+GitHub
+
+https://github.com/Daniel-Merscher
+
+LinkedIn
+
+(Adicione quando criar)
+
+Email
+
+(adicione seu e-mail)
+
+---
+
+⭐ Obrigado por visitar meu perfil!
